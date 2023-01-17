@@ -1,5 +1,3 @@
-# Programming-in-Java-NPTEL
-
 # [Programming_In_Java_NPTEL](https://github.com/rudraksh-tandon/Programming_in_Java_nptel)
 
 ## [WEEK 1](https://github.com/rudraksh-tandon/Programming_in_Java_nptel/tree/main/Week%201)
